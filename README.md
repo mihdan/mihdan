@@ -1,4 +1,11 @@
-### Hi there 👋
+### Who I am 🤔
+
+Hi, I am Mikhail — a senior software engineer at [The-Challenger.RU](https://the-challenger.ru/) working on web platform to support product teams sustainability.
+
+## Get in touch
+Personal site: https://www.kobzarev.com/
+Telegram: https://t.me/mihdan
+Telegram: https://twitter.com/mihdan_dev
 
 <!--
 **mihdan/mihdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
