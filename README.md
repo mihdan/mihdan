@@ -6,6 +6,9 @@ Hi, I am Mikhail — a senior software engineer at [The-Challenger.RU](https://t
 - Personal site: https://www.kobzarev.com/
 - Telegram: https://t.me/mihdan
 - Twitter: https://twitter.com/mihdan_dev
+- WP.org: https://profiles.wordpress.org/mihdan/
+- Stack Overflow: https://ru.stackoverflow.com/users/223864/mihdan
+- Codersrank: https://profile.codersrank.io/user/mihdan
 
 <!--
 **mihdan/mihdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
