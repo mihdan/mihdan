@@ -2,6 +2,12 @@
 
 Hi, I am Mikhail — a senior software engineer at [The-Challenger.RU](https://the-challenger.ru/) working on web platform to support product teams sustainability.
 
+## GitHub Stats
+![Mikhail's github stats](https://github-readme-stats.vercel.app/api?username=mihdan&show_icons=true&theme=default)
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihdan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Get in touch
 - Personal site: https://www.kobzarev.com/
 - Telegram: https://t.me/mihdan
