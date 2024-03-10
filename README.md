@@ -1,6 +1,6 @@
 ### Who I am 🤔
 
-Hi, I am Mikhail — a senior software engineer at [Kokoc Group]([https://www.epam-group.ru](https://kokocgroup.ru/)) working on web platform to support product teams sustainability.
+Hi, I am Mikhail — a senior software engineer at [Kokoc Group](https://kokocgroup.ru/) working on web platform to support product teams sustainability.
 
 ## GitHub Stats
 ![Mikhail's github stats](https://github-readme-stats.vercel.app/api?username=mihdan&show_icons=true&theme=default)
